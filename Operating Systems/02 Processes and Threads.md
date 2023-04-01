@@ -10,7 +10,7 @@
 **Processes:**
 - *Process* - a program in execution
 	- program (executable file containing list of instructions) is passive unless instructions are executed
-	- requires counter to specifiy next instruction to execute
+	- requires counter to specify next instruction to execute
 	- needs resources (CPU time, memory, files, I/O devices) to accomplish task
 	- Contains:
 		- Text section - program code
