@@ -1,7 +1,6 @@
 [
   "table-editor-obsidian",
   "calendar",
-  "obsidian-git",
   "note-refactor-obsidian",
   "obsidian-dictionary-plugin",
   "highlightr-plugin",
@@ -14,5 +13,6 @@
   "smart-random-note",
   "graph-analysis",
   "obsidian-excalidraw-plugin",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-git"
 ]

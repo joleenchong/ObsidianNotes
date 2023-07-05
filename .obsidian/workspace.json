@@ -24,24 +24,24 @@
                 }
               },
               {
-                "id": "a32e1aa345122695",
+                "id": "7584f9e767001aa2",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/02 Architecture & Services.md",
+                    "file": "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure functions.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "ba12f960d35e061c",
+                "id": "a2515b4c23b05cf1",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Devlogs/Neocities website.md",
+                    "file": "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure app hosting options.md",
                     "mode": "source",
                     "source": false
                   }
@@ -64,7 +64,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Devlogs/Neocities website.md",
+                        "file": "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure app hosting options.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Devlogs/Neocities website.md",
+                "file": "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure app hosting options.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Devlogs/Neocities website.md",
+                "file": "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure app hosting options.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Devlogs/Neocities website.md"
+                "file": "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure app hosting options.md"
               }
             }
           },
@@ -264,14 +264,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "a3238de57a822a9f",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,12 +297,13 @@
   },
   "active": "9a3a8ddd062710ab",
   "lastOpenFiles": [
-    "gitbackup/README.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure functions.md",
     "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure app hosting options.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/02 Architecture & Services.md",
+    "Devlogs/Neocities website.md",
+    "gitbackup/README.md",
     "gitbackup",
     "ObsidianNotes",
-    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/02 Architecture & Services.md",
-    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure functions.md",
     "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure containers.md",
     "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure virtual machines.md",
     "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/03 Management & Governance.md",
@@ -320,7 +328,6 @@
     "Concepts/Operating Systems/10 Subtopics/access rights.md",
     "Concepts/Operating Systems/10 Protection and Security.md",
     "Concepts/Operating Systems/10 Subtopics",
-    "Concepts/Operating Systems/09 IO and Storage.md",
     "Image folder/Pasted image 20230621182827.png",
     "Image folder/Pasted image 20230621181639.png",
     "Image folder/Pasted image 20230621181538.png",

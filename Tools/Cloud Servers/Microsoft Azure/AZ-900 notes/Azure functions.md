@@ -1,4 +1,4 @@
-An event-driven, serverless compute option that doesn't need maintaining [[Azure virtual machines]] or [[Azure containers]]. An event wakes the function, alleviating the need to keep resources provisioned where there are no events. A [[Software as a Service (SaaS)]] offering
+An event-driven, serverless compute option that doesn't need maintaining [[Azure virtual machines]] or [[Azure containers]]. An event wakes the function, alleviating the need to keep resources provisioned where there are no events.
 
 Benefits:
 - no need to worry about platform or infrastructure
