@@ -1,0 +1,42 @@
+# Physical Infrastructure
+- Datacentres: 
+	- facilities with resources arranged in racks with dedicated power, cooling, & network infrastructure
+	- grouped in Azure Regions / Availability Zones
+- Regions:
+	- a geographical area containing at least one datacenter networked together with low-latency network
+	- may limit what services / VM features are available
+	- Region Pairs - two regions at least 300 miles away are paired together for replication of resources across geography
+	- Sovereign regions - isolated instances from main instance of Azure
+- Availability Zones:
+	- physically separate datacentres within an Azure region
+	- set up to be an isolation boundary - if one zone goes down, the other continues working -> redundancy to protect info from failure
+	- a minimum of 3 separate availability zones are present in all availability zone-enabled regions, but not all regions currently support availability zones
+	- used for VMs, managed disks, load balancers, & SQL databases
+	- Supported services fall into 3 categories:
+		- Zonal services - resource is pinned to specific zone (e.g. IP addresses, VMs)
+		- Zone-redundant services - platform replicates automatically across zones (e.g. SQL database)
+		- Non-regional services - always available and resilient against zone & region-wide outages
+
+# Management Infrastructure
+- Resources - anything created, provisioned, deployed on Azure (e.g. VMs, virtual networks, databases, cognitive services, etc.)
+- Resource groups - groups of resources
+	- newly created resources must be put into resource group
+	- a single resource can be in only 1 group at a time
+	- groups can't be nested in other groups
+	- applying action (like deletion or access)to resource group applies it to all resources within group
+- Subscriptions - a unit of management, billing & scale that provides authorised access to Azure products & services
+	- can be used to define boundaries around products, services & resources
+	- groups the resource groups
+	- Types:
+		- Billing boundary - how an account is billed for using Azure
+		- Access control boundary - access-management policies at subscription level
+- Management groups - containers for grouping subscriptions
+	- apply governance conditions to management groups to all subscriptions in management group
+	- can be nested
+	- Examples of using management groups:
+		- create hierarchy that applies a policy
+		- provide user access to multiple subscriptions
+	- important facts:
+		- 10,000 management groups can be supported in single directory
+		- a management group tree can support up to 6 levels of depth excluding root / subscription level
+		- each management group & subscription can support only one parent

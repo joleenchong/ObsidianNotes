@@ -1,0 +1,23 @@
+OS operation (Slide 47):
+- Dual-mode operation:
+	- two modes of operation:
+		- *user mode* - runs user programs
+		- *monitor / privileged mode* - loads OS at system boot-time, runs privileged instructions, is switched to when interrupt or fault happens
+	- hardware provides *mode bit* to indicate current mode : monitor (0) or user (1)
+	- *Privileged instruction* - machine instructions that may cause harm and can only be done in monitor mode
+	- OS switches from monitor mode to user mode to start user processes -> user process can never gain control of computer in monitor mode
+- I/O:
+	- all I/O instructions are privileged -> user program must use system call to do I/O
+- Memory:
+	- must protect memory for [[interrupt vector]] and ISR
+	- uses two registers to define range of legal addresses program can access:
+		- [[base register]] - holds smallest legal physical memory address
+		- [[limit register]] - holds size of range
+		- instructions to load these registers are privileged
+	- memory outside range is protected
+	- OS is unrestricted for monitor and user memory
+- CPU:
+	- uses timer interrupt after certain period to prevent a single program from using CPU all the time
+		- timer is decremented every clock tick -> upon reaching value 0, interrupt happens
+	- used for time sharing
+	- loading timer value -> privileged instruction

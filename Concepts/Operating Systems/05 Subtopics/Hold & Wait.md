@@ -1,0 +1,1 @@
+A process holding at least one resource is waiting to acquire additional resources held by other processes.

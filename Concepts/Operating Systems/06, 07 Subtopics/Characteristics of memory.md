@@ -1,0 +1,1 @@
+A volatile storage device. Program must be mapped to absolute addresses and loaded into memory.

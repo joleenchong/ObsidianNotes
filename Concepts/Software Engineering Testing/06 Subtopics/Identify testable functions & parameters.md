@@ -1,0 +1,6 @@
+- More characteristics means more tests
+- Interface-based - translate parameters to characteristics
+- Candidates for characteristics
+	- Preconditions and postconditions
+	- Relationships among variables
+	- Relationship of variables with special values (zero, null, blank)

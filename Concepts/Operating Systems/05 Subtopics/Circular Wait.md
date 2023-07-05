@@ -1,0 +1,1 @@
+In a set of waiting processes, they're basically in a sort of love triangle waiting for resources held by each other.

@@ -1,0 +1,22 @@
+- Goal in [[Multiprogramming]] system: maximise CPU utilisation
+- Goal in time-sharing system: switch processes frequently so users can interact with their running programs
+- Queues (implemented as [[04 Linked Lists ||linked lists]]) that are stores in OS:
+	- *Job Queue* - all processes entering system are put in job queue
+	- *Ready Queue* - a set of all processes in main memory, ready and waiting to execute
+	- *Device Queue* - a set of processes waiting for an I/O device (each device has its own queue)
+	- two diagrams (slide 11 and 12)
+- Long-term scheduler function:
+	- selects which processes should e brought into ready queue
+	- controls degree of multiprogramming (number of processes in memory)
+	- invoked very infrequently
+- Short-term scheduler function:
+	- selects or dispatches a process to be done next and allocated CPU
+	- invoked very frequently
+- there's another diagram (slide 13)
+- [[Processes ||Process]] descriptions:
+	- I/O bound process:
+		- spends more time doing I/O than computation
+		- many short CPU bursts
+	- CPU bound process:
+		- spends more time doing computations
+		- very long CPU bursts

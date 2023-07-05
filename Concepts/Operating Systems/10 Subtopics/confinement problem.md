@@ -1,0 +1,1 @@
+The problem of preventing a server from leaking info that the user of the service considers confidential. It is impossible to prevent and solve.

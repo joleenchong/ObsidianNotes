@@ -4,34 +4,126 @@
     "type": "split",
     "children": [
       {
-        "id": "940c73d4fbe1e77f",
-        "type": "tabs",
+        "id": "b7ee63f2673330c4",
+        "type": "split",
         "children": [
           {
-            "id": "22db6d318e7ded30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating Systems/02 Processes and Threads.md",
-                "mode": "source",
-                "source": false
+            "id": "cfa7a6b7e7507d56",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e746bd0e5f7c896f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/02 Architecture & Services.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a32e1aa345122695",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/02 Architecture & Services.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "ba12f960d35e061c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Devlogs/Neocities website.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 2
           },
           {
-            "id": "daece276e695f5b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating Systems/01 Overview.md",
-                "mode": "source",
-                "source": false
+            "id": "482b91c9e5982b00",
+            "type": "split",
+            "children": [
+              {
+                "id": "05bee205fe731035",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "18d026d260d084f9",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "Devlogs/Neocities website.md",
+                        "options": {
+                          "collapse-filter": true,
+                          "search": "",
+                          "localJumps": 2,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": true,
+                          "showTags": false,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": false,
+                          "colorGroups": [
+                            {
+                              "query": "",
+                              "color": {
+                                "a": 1,
+                                "rgb": 14701138
+                              }
+                            }
+                          ],
+                          "collapse-display": true,
+                          "showArrow": false,
+                          "textFadeMultiplier": 0,
+                          "nodeSizeMultiplier": 1,
+                          "lineSizeMultiplier": 1,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 0.3496597027216634,
+                          "close": true
+                        }
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "24f071c2ff8d99d6",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "6775ed93caf202e0",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "graph",
+                      "state": {},
+                      "pinned": true
+                    }
+                  }
+                ]
               }
-            }
+            ],
+            "direction": "horizontal"
           }
-        ]
+        ],
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -61,7 +153,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -70,10 +162,10 @@
             }
           },
           {
-            "id": "048ab19a67033601",
+            "id": "7bbde033f146630e",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -97,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/02 Processes and Threads.md",
+                "file": "Devlogs/Neocities website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/02 Processes and Threads.md",
+                "file": "Devlogs/Neocities website.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/02 Processes and Threads.md"
+                "file": "Devlogs/Neocities website.md"
               }
             }
           },
@@ -156,9 +248,25 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "360a9e82eef2d75d",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a3a8ddd062710ab",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -170,42 +278,64 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
+      "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "random-note:Open random note": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "22db6d318e7ded30",
+  "active": "9a3a8ddd062710ab",
   "lastOpenFiles": [
-    "Operating Systems/01 Overview.md",
-    "Operating Systems/02 Processes and Threads.md",
-    "Pasted image 20230330091848.png",
-    "Pasted image 20230330091726.png",
-    "Operating Systems/Dashboard.md",
-    "Data Structures and Algorithms/Infix to Postfix.md",
-    "Data Structures and Algorithms/03 Stacks and Queues.md",
-    "Data Structures and Algorithms/02 Recursion.md",
-    "Data Structures and Algorithms/01 Sorting Algorithms.md",
-    "Data Structures and Algorithms/00 Dashboard.md",
-    "Data Structures and Algorithms/04 Linked Lists.md",
-    "Untitled.canvas",
-    "Template folder/Class Dashboard.md",
-    "Template folder",
-    "2023-03-29.md",
-    "Data Structures and Algorithms/06 Graphs.md",
-    "Data Structures and Algorithms/05 Trees.md",
-    "Image folder/Pasted image 20230321160236.png",
-    "Image folder",
-    "Image folder/Pasted image 20230318233023.png",
-    "Language-specific notes/C Sharp",
-    "Language-specific notes/C",
-    "Language-specific notes/Python",
-    "Language-specific notes/Java",
-    "Software Engineering Testing",
-    "Language-specific notes",
-    "Operating Systems",
-    "Data Structures and Algorithms"
+    "gitbackup/README.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure app hosting options.md",
+    "gitbackup",
+    "ObsidianNotes",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/02 Architecture & Services.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure functions.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure containers.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure virtual machines.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/03 Management & Governance.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Consumption-based model.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Cloud scalability.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Cloud models.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure infrastructure.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Cloud management.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Software as a Service (SaaS).md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Shared responsibility model.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Infrastructure as a Service (IaaS).md",
+    "Devlogs/Custom monopoly game online.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Surface Level Agreements.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/01 Cloud concepts.md",
+    "Reading list.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Platform as a Service (PaaS).md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/cloud concepts",
+    "Devlogs/Discord counting bot.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes",
+    "Concepts/Operating Systems/10 Subtopics/confinement problem.md",
+    "Concepts/Operating Systems/10 Subtopics/access matrix.md",
+    "Concepts/Operating Systems/10 Subtopics/access rights.md",
+    "Concepts/Operating Systems/10 Protection and Security.md",
+    "Concepts/Operating Systems/10 Subtopics",
+    "Concepts/Operating Systems/09 IO and Storage.md",
+    "Image folder/Pasted image 20230621182827.png",
+    "Image folder/Pasted image 20230621181639.png",
+    "Image folder/Pasted image 20230621181538.png",
+    "Image folder/Pasted image 20230621161526.png",
+    "Image folder/Pasted image 20230621154647.png",
+    "Image folder/Pasted image 20230621154043.png",
+    "Image folder/Pasted image 20230621154004.png",
+    "Image folder/Pasted image 20230621152309.png",
+    "Image folder/Pasted image 20230620205027.png",
+    "Image folder/Pasted image 20230620210750.png",
+    "Untitled",
+    "Devlogs",
+    "Tools",
+    "Concepts/Operating Systems/09 Subtopics",
+    "Concepts",
+    "Untitled.canvas"
   ]
 }

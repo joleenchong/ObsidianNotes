@@ -1,0 +1,1 @@
+A fast, large disk to store copies of all memory images for all users. It must provide direct access to these memory images.

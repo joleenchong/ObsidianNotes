@@ -1,0 +1,27 @@
+The kernel consists of everything below system-call interface and above physical hardware (file system, CPU scheduling, memory management, other operating system functions) -> difficult to implement and maintain as everything in one level
+
+- System programs are loaded and start running at boot time
+	- called *system processes / daemon* when they run when kernel is running
+		- example: init in Linux (runs other daemons)
+- once fully booted waits for events to happen -> *interrupt-driven*
+	- system knows event happened through interrupts from hardware or software (traps or exceptions)
+		- hardware interrupt -> sends signal to CPU by bus
+		- software interrupt -> [[System call]] / monitor call
+
+- *Layered System (Slide 59):*
+	- OS divided into layers - bottom layer is hardware and highest layer is user interface
+	- each layer uses functions and services of only lower-level layers -> modularity -> easy to debug
+	- less efficient and hard to define level functionality
+- *Microkernel (Slide 60):*
+	- smaller-sized kernel -> provides minimal services like process, memory management, communication
+	- non-essential services become system / user programs
+	- function: a communication facility between a client and OS services using message passing
+	- Pros:
+		- easier to extend OS
+		- more portable
+		- more security and reliability
+	- Cons:
+		- message passing increases system function overhead -> reduced performance
+- *Modular kernel* - set of core components that can add additional modules during boot / run time
+	- more flexible than layered system -> module can call other module
+	- more efficient than microkernel -> no message passing needed

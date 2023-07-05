@@ -1,0 +1,1 @@
+One of the oldest [[Memory allocation||memory allocation]] models. It assigns consecutive memory blocks to processes (memory blocks with consecutive addresses). Limited resources must be allocated efficiently.

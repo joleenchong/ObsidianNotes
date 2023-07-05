@@ -4,5 +4,7 @@
   "spellcheck": true,
   "spellcheckLanguages": [
     "en-AU"
-  ]
+  ],
+  "alwaysUpdateLinks": true,
+  "trashOption": "system"
 }

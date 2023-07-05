@@ -1,0 +1,1 @@
+Resources can only be released voluntarily by a process holding it after process completes task.

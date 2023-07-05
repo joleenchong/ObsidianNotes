@@ -1,0 +1,13 @@
+
+- improve performance for large data transfers
+	- bypasses CPU to transfer data directly between I/O device and memory -> CPU freed for other work
+- CPU gives command to DMA controller with information on pointer of source of data transferred, pointer of destination of transfer, count of number of bytes to transfer
+- Handshaking tween DMA controller & device controller uses *DMA-request line* & *DMA-acknowledge line* - handshaking is process for negotiating setting up comm channel tween 2 entities
+	- device controller puts signal on DMA-request line when data is available for transfer
+	- DMA controller senses signal -> seizes memory bus -> sets intended address on address bus  -> sends signal on DMA-acknowledge line
+	- device controller receives DMA-acknowledge signal -> transfers data to memory -> removes DMA-request signal
+- after finishing entire transfer DMA controller interrupts CPU:
+	- OS sets DMA controller registers to set source and destination addresses, read/write request, transfer length
+	- DMA controller transfers blocks of data from buffer storage directly to main memory -> no CPU intervention frees CPU for other tasks
+	- DMA controller [[Interrupts ||interrupts]] CPU after transfer completed - one interrupt generated per block
+

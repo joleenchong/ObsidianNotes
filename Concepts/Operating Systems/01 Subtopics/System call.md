@@ -1,0 +1,15 @@
+- a user interface to OS services available in assembly-language instructions / high level languages for systems programming (like C)
+- *Application Program Interface (API)* - set of functions available to application programmer
+	- does the system calls for app programmers
+	- more portable and easier to use
+- has a number in a vector table that stores pointers to system call routines
+- Result / termination:
+	- normal termination (exit / return) : exits current program and returns to command interpreter
+	- abnormal termination (trap) : program error
+- Types of system calls:
+	- Process control
+	- File management
+	- Device management
+	- Information maintenance
+	- Communications
+	- Protection

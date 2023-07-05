@@ -1,0 +1,1 @@
+An array of words / bytes, each with their own [[Memory address binding||memory address]]. They are shared by CPU and I/O devices.
