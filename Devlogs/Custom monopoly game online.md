@@ -1,6 +1,8 @@
 PDF:
 https://www.hasbro.com/common/instruct/00009.pdf
 
+A web app that allows users to customise their monopoly board and host games online. I will use this app to practice Javascript & figure out web dev.
+
 # Game flow
 ## Goal
 Become the last player left after everyone else becomes bankrupt OR after a certain amount of turns, have the most worth calculated from owned properties and cash.

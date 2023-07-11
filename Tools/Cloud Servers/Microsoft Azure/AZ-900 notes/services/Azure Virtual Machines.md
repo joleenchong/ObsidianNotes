@@ -27,4 +27,6 @@ Examples of VM use:
 - extending own datacentre to cloud
 - disaster recovery
 
-Azure also provides Azure Virtual Desktop. This is different from Azure VMs in that Desktop provides a virtual Windows desktop, whereas VMs are simply infrastructure that can also choose between Windows and Linux
+Azure also provides Azure Virtual Desktop. This is different from Azure VMs in that Desktop provides a virtual Windows 10/11 Enterprise desktop, whereas VMs are simply infrastructure that can also choose between Windows and Linux.
+- can use [[Azure Active Directory]], [[Azure role-based access control]], & [[Azure authentication methods||multifactor authentication]] for security
+- can have multiple user concurrently on 1 VM

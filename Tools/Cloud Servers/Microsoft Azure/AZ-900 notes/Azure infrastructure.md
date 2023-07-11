@@ -3,7 +3,7 @@
 	- facilities with resources arranged in racks with dedicated power, cooling, & network infrastructure
 	- grouped in Azure Regions / Availability Zones
 - Regions:
-	- a geographical area containing at least one datacenter networked together with low-latency network
+	- a geographical area containing at least one datacentre networked together with low-latency network
 	- may limit what services / VM features are available
 	- Region Pairs - two regions at least 300 miles away are paired together for replication of resources across geography
 	- Sovereign regions - isolated instances from main instance of Azure
@@ -18,7 +18,7 @@
 		- Non-regional services - always available and resilient against zone & region-wide outages
 
 # Management Infrastructure
-- Resources - anything created, provisioned, deployed on Azure (e.g. VMs, virtual networks, databases, cognitive services, etc.)
+- [[Azure resource]]s - anything created, provisioned, deployed on Azure (e.g. VMs, virtual networks, databases, cognitive services, etc.)
 - Resource groups - groups of resources
 	- newly created resources must be put into resource group
 	- a single resource can be in only 1 group at a time

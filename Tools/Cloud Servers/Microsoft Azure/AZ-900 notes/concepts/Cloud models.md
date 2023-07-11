@@ -12,5 +12,5 @@ Types:
 | orgs pay only for what they use                 | hardware must be purchased for startup & maintenance | orgs control security, compliance, legal requirements |
 | don't have complete control over resources & security | orgs responsible for hardware maintenance & updates |                                                       |
 
-Azure Arc - a set of tech for managing cloud environment.
+[[Azure Arc]] - a set of tech for managing cloud environment.
 Azure VMWare Solution - runs VMWare workloads in Azure for integration & scalability

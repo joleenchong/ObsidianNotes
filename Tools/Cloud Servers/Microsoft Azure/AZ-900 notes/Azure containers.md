@@ -1,1 +1,0 @@
-A virtualisation environment. Compared to [[Azure virtual machines]], the OS is not managed for the container, making them a more agile method. Containers are lightweight and dynamically created, scaled, and stopped. Containers can be easily restarted in case of crash or hardware interruption. They are a [[Platform as a Service (PaaS)]] offering.

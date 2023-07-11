@@ -1,0 +1,1 @@
+A portal providing access to various content, tools, other resources abt Microsoft security, privacy, compliance practices.

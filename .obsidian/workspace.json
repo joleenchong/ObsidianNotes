@@ -4,55 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "b7ee63f2673330c4",
+        "id": "7728d6e90a7c4f74",
         "type": "split",
         "children": [
           {
-            "id": "cfa7a6b7e7507d56",
+            "id": "7892fa0d60046bec",
             "type": "tabs",
+            "dimension": 63.33892617449665,
             "children": [
               {
-                "id": "e746bd0e5f7c896f",
+                "id": "1025101f1a033452",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/02 Architecture & Services.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "7584f9e767001aa2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure functions.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "a2515b4c23b05cf1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure app hosting options.md",
+                    "file": "Tools/Cloud Servers/Microsoft Azure/Exam scheduling.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           },
           {
-            "id": "482b91c9e5982b00",
+            "id": "dc592445015cb49c",
             "type": "split",
+            "dimension": 36.66107382550335,
             "children": [
               {
                 "id": "05bee205fe731035",
@@ -64,7 +41,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure app hosting options.md",
+                        "file": "Tools/Cloud Servers/Microsoft Azure/Exam scheduling.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -85,9 +62,9 @@
                               }
                             }
                           ],
-                          "collapse-display": true,
+                          "collapse-display": false,
                           "showArrow": false,
-                          "textFadeMultiplier": 0,
+                          "textFadeMultiplier": -1.1,
                           "nodeSizeMultiplier": 1,
                           "lineSizeMultiplier": 1,
                           "collapse-forces": true,
@@ -95,7 +72,7 @@
                           "repelStrength": 10,
                           "linkStrength": 1,
                           "linkDistance": 250,
-                          "scale": 0.3496597027216634,
+                          "scale": 0.22920135941749387,
                           "close": true
                         }
                       }
@@ -104,7 +81,7 @@
                 ]
               },
               {
-                "id": "24f071c2ff8d99d6",
+                "id": "d1586880c5c33998",
                 "type": "tabs",
                 "children": [
                   {
@@ -189,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure app hosting options.md",
+                "file": "Tools/Cloud Servers/Microsoft Azure/Exam scheduling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure app hosting options.md",
+                "file": "Tools/Cloud Servers/Microsoft Azure/Exam scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure app hosting options.md"
+                "file": "Tools/Cloud Servers/Microsoft Azure/Exam scheduling.md"
               }
             }
           },
@@ -278,7 +255,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -295,38 +273,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a3a8ddd062710ab",
+  "active": "1025101f1a033452",
   "lastOpenFiles": [
-    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure functions.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/+ AZ-900 Homepage.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/services/Azure App Service.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure total cost calculator.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure pricing calculator.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure storage accounts.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Surface Level Agreements.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure resource tags.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure resource locks.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure infrastructure.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure defence.md",
     "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure app hosting options.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/services/Azure Storage.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/services/Azure VPN.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/services/Azure Functions.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/services/Azure Monitor.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/services/Azure Policy.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/services/Azure Active Directory.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/services/Azure Advisor.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/services/Azure Cost Management.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/services/Azure Resource Manager.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/services/Azure Arc.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure authentication methods.md",
     "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/02 Architecture & Services.md",
-    "Devlogs/Neocities website.md",
-    "gitbackup/README.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/services/Azure Containers.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/services/Azure Virtual Machines.md",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/services/Azure role-based access control.md",
+    "Pasted image 20230708174822.png",
+    "Image folder/Pasted image 20230708173918.png",
+    "Image folder/Pasted image 20230707200912.png",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/services",
+    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/concepts",
+    "Image folder/Pasted image 20230707184409.png",
+    "Concepts/Web",
     "gitbackup",
     "ObsidianNotes",
-    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure containers.md",
-    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure virtual machines.md",
-    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/03 Management & Governance.md",
-    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Consumption-based model.md",
-    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Cloud scalability.md",
-    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Cloud models.md",
-    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Azure infrastructure.md",
-    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Cloud management.md",
-    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Software as a Service (SaaS).md",
-    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Shared responsibility model.md",
-    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Infrastructure as a Service (IaaS).md",
-    "Devlogs/Custom monopoly game online.md",
-    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Surface Level Agreements.md",
-    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/01 Cloud concepts.md",
-    "Reading list.md",
-    "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/Platform as a Service (PaaS).md",
     "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes/cloud concepts",
-    "Devlogs/Discord counting bot.md",
     "Tools/Cloud Servers/Microsoft Azure/AZ-900 notes",
-    "Concepts/Operating Systems/10 Subtopics/confinement problem.md",
-    "Concepts/Operating Systems/10 Subtopics/access matrix.md",
-    "Concepts/Operating Systems/10 Subtopics/access rights.md",
-    "Concepts/Operating Systems/10 Protection and Security.md",
     "Concepts/Operating Systems/10 Subtopics",
     "Image folder/Pasted image 20230621182827.png",
     "Image folder/Pasted image 20230621181639.png",
@@ -334,15 +319,8 @@
     "Image folder/Pasted image 20230621161526.png",
     "Image folder/Pasted image 20230621154647.png",
     "Image folder/Pasted image 20230621154043.png",
-    "Image folder/Pasted image 20230621154004.png",
-    "Image folder/Pasted image 20230621152309.png",
-    "Image folder/Pasted image 20230620205027.png",
-    "Image folder/Pasted image 20230620210750.png",
     "Untitled",
     "Devlogs",
-    "Tools",
-    "Concepts/Operating Systems/09 Subtopics",
-    "Concepts",
     "Untitled.canvas"
   ]
 }

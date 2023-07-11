@@ -1,0 +1,1 @@
+A naming system that turns domain names into IP addresses, allowing browsers to access websites & other internet resources.
