@@ -1,7 +1,7 @@
 
 # Current project
 Where I'm focusing my efforts most on.
-- [[Custom monopoly game online]]
+- [[Polypoly - -opoly engine]]
 
 # Research stage
 I need more research into tools or specs to plan these.

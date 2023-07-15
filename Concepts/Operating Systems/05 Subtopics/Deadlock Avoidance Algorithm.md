@@ -26,5 +26,17 @@ Bankers' Algorithm:
 		- Need - n x m matrix
 			- Need \[i,j] = k; means process Pi may need k more instances of resource type Rj to complete task
 			- Need\[i,j] = max\[i,j] - allocation\[i,j]
+	- Steps:
+		1. Let *work* & finish = vectors of length m & n respectively
+			- work = available
+			- finish\[i] = false
+		2. find value of i that satisfies (else go to step 4):
+			- finish\[i] = false
+			- need<sub>i</sub> <= work
+		3. work = work + allocation\[i]
+			- finish\[i] = true, go to step 2
+		4. if finish\[i] = true for all i, system is in safe state
 
-go over slide 27+
+![[Drawing 2023-07-15 15.43.34.excalidraw]]
+
+Check slide 28-30

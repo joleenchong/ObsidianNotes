@@ -9,7 +9,7 @@ Methods:
 
 When to use algo?
 - depends on frequency of deadlock occurrence
-- number of processes will be affected by deadlock occurence
+- number of processes will be affected by deadlock occurrence
 
 Risks of using algo:
 - expensive when called every time process makes requests -> but useful for finding what processes caused deadlock

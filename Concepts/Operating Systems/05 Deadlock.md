@@ -14,10 +14,11 @@ Graphs:
 - [[System-allocation graph]]
 - [[Wait-for graph]]
 
-3 methods to handle:
+4 methods to handle:
 - [[Prevention of deadlock]]
 - [[Detection of deadlock]]
 - [[Recovery of deadlock]]
+- Ignorance of deadlock - cost-effective, but can lead to reduced system performance
 - Optimal approach for each class of resource:
 	- sort into hierarchically ordered classes
 	- use must appropriate handling technique within each class

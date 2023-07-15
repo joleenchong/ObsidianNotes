@@ -2,6 +2,7 @@ PDF:
 https://www.hasbro.com/common/instruct/00009.pdf
 
 A web app that allows users to customise their monopoly board and host games online. I will use this app to practice Javascript & figure out web dev.
+[[Polypoly breakdown.canvas|Polypoly breakdown]]
 
 # Game flow
 ## Goal
@@ -46,3 +47,6 @@ Locations on the game board that can be bought.
 
 ## Money
 We could customise the money face too.
+
+## Actions
+Customise triggers and actions to make custom rules for the game.

@@ -1,0 +1,1 @@
+A discord bot that can use binary search operators to find messages.
