@@ -11,7 +11,7 @@ Grammar:
 Coverage criteria:
 - **Terminal Symbol Coverage (TSC)** - TR contains each terminal symbol *t* in the grammar G
 - **Production Coverage (PC)** - TR contains each production *p* in the grammar G
-- PC subsumes TSC
+	- PC subsumes TSC
 - **Derivation Coverage (DC)** - TR contains every possible string that can be derived from the grammar G -> impractical
 - number of TSC tests bound by number of terminal symbols
 - number of PC tests bound by number of productions

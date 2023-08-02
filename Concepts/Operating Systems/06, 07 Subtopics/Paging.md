@@ -7,7 +7,7 @@ Definition:
 Characteristics:
 - logical address space of process can be non-contiguous
 - Frames - fixed size blocks of divided physical memory
-	- frame size is power of 2
+	- frame size is power of 2; frame size = page size
 - Pages - fixed size blocks of divided logical memory
 
 How does it work?

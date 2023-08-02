@@ -77,7 +77,6 @@ Level 4 (block-level parity):
 Level 5 (block-level distributed parity):
 - ![[Pasted image 20230621182827.png]]
 - distributes parity strips across all disks -> avoids potential IO bottleneck in RAID 4 parity disk
--
 
 Level 6: 
 - stores redundant info to handle multiple disk failures

@@ -30,3 +30,10 @@ C-LOOK:
 - a version of C-SCAN
 - shows 322 cylinders
 ![[Pasted image 20230620212102.png]]
+
+To calculate total seek time for each algorithm, first put the queue in the order the algorithm would traverse. Then, sum the difference of cylinders between each request and multiply that difference with the seek time given.
+Example C-LOOK:
+- 53, 65, 67, 98, 122, 124, 183 (last request), 14, 37
+- seek time of 15 milliseconds per cylinder moved
+- 12 + 2 + 31 + 24 + 2 + 59 + 169 + 23 = 322 cylinders moved
+- total seek time = 322 + 15ms = 4830ms

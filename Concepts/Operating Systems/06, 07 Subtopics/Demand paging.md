@@ -23,7 +23,7 @@ Hardware requirements:
 - page tables to mark entry valid / invalid:
 	- Valid bit = 1 -> legal page in memory
 	- Valid bit = 0 -> page on disk (valid) / invalid
-- [[Page replacement algorithm]] & frame allocation algorithm
+- [[Page replacement algorithm]] & [[Frame allocation]] algorithm
 
 When a process needs a page:
 - if page in memory -> continue as before
@@ -66,3 +66,7 @@ Stages:
 11. wait for CPU to be allocated to this process again
 12. restore user registers, process state, and new page table, then resume interrupted instruction
 
+Page fault service time components:
+- service page fault interrupt (1-100us)
+- read in page (8ms) : average latency = 3ms, seek time = 5ms, transfer time = 0.05ms
+- restart process (1-100us)

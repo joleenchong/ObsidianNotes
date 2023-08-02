@@ -5,6 +5,7 @@
 [[04 Linked Lists]]
 [[05 Trees]]
 [[06 Graphs]]
+[[07 Hash tables]]
 
 # Resources:
 

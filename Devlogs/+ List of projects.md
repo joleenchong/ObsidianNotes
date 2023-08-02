@@ -5,7 +5,7 @@ Where I'm focusing my efforts most on.
 
 # Research stage
 I need more research into tools or specs to plan these.
-- [[Godot Revue RPG]]
+- [[Audition - a Revue Starlight Fangame]]
 - [[Better search discord]]
 - [[Discord counting bot]]
 - [[Neocities website]]

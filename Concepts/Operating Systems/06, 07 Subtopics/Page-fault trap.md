@@ -1,4 +1,4 @@
-An interrupt generated when a page needed by a process is not in memory.
+An interrupt generated when a page needed by a process is not in memory -> [[Page fault]]
 
 Handling procedure:
 1. Check if reference address is valid (from internal [[Process Control Block]])

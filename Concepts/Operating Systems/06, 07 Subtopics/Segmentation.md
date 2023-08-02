@@ -1,4 +1,4 @@
-- An MMS that supports user view of memory.
+- An memory management scheme that supports user view of memory.
 - memory divided into variable size parts -> known as segments -> can be allocated to a process
 - each segment has name and length -> addresses specify both segment name and an offset
 

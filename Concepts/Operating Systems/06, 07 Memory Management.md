@@ -1,6 +1,6 @@
 Chapter 8 & 9 of OS textbook
 Formula list:
-- [[Memory Management Formulas]]
+- [[+ Memory Management Formulas]]
 
 -----
 Memory:
