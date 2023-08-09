@@ -9,28 +9,27 @@ Email for appointment
 - Understand the technology behind web-based malware and viruses
 - Evaluate and apply existing tools to trace hackers' tracks through compromised system
 # List of Topics:
-[[01 Unit overview and introduction]]
-[[02, 03 Web secure programming]]
-[[04, 05 Buffer overflow attack]]
-[[06 Secure design and thread modelling]]
-[[07 Secure programming in Java]]
-[[08 Secure programming in C]]
-[[09 Man-in-the-middle attack]]
-[[10 Serialization and deserialization vulnerabilities]]
-[[11 Management of data integrity]]
-[[12 Application security testing]]
+[[01, 02 Web secure programming]]
+[[03, 04 Buffer overflow attack]]
+[[05 Secure design and thread modelling]]
+[[06 Secure programming in Java]]
+[[07 Application security testing]]
+[[08 Man-in-the-middle attack]]
+[[09 Serialization and deserialization vulnerabilities]]
+[[10 Management of data integrity]]
 
 # Assignments / Tests:
 1. Assignment Implementing and Testing - 25%
 	- Due: Week 10
 	- Identify, exploit & patch vulnerable program(s)
-2. Mid Sem Test - 25%
+2. Mid Sem Test - 35%
 	- Date: Week 8 12:00-13:30 (may take longer cause of CAP)
 	- Exploit a target program (buffer overflow attacks)
 	- covers topics 1-6
-1. Final Exam - 50%
+1. Final Exam - 40%
 	- Date: 30th Oct - 10th Nov
 	- Covers topics 7-12
 Pass requirements: 50% overall mark and submit all assessments
 # Resources:
-- DL Oracle Virtualbox for this unit
+- Cyberlab computer passwords: Cyberlab
+- VM password: ISEC3004

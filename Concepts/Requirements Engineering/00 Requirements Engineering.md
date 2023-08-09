@@ -3,6 +3,9 @@ UC Name: Aneesh Krishna
 Email: a.krishna@curtin.edu.au
 Office: 314.436
 
+Tutor: Tanmay Singha
+Email: tanmay.singha@curtin.edu.au
+Office: 314.422
 # Learning Outcomes:
 - describe state of the art techniques of software requirements capture & analysis
 - explain software system requirements translation to appropriate software specifications expressed in range of different formalisms

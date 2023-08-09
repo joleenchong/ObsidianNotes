@@ -14,7 +14,7 @@ Consultation time: Wednesday after lecture, Thursday lab sessions, book appointm
 # List of Topics:
 [[01 Basics of relational model and SQL]]
 [[02 Basic queries, data types]]
-[[03 ER model]]
+[[03 ER modelling]]
 [[04 ER mapping, functional dependencies, normalisation]]
 [[05 Schema to implementation - joins, grouping, sorting]]
 [[06 Table manipulation, constraints]]
