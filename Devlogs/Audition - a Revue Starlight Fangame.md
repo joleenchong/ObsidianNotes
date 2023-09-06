@@ -5,7 +5,7 @@ The premise is that you pick a girl and fight another girl with it. However, eac
 Boss fights:
 Karen - TCG
 Hikari - Spiderman swinging platformer
-Mahiru - baseball
+Mahiru - baseball / stealth game
 Junna - bullet hell
 Nana - cooking sim / fruit ninja
 Futaba - actually a fighting game
