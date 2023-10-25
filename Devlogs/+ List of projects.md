@@ -1,7 +1,7 @@
 
 # Current project
 Where I'm focusing my efforts most on.
-- [[Polypoly - -opoly engine]]
+
 
 # Research stage
 I need more research into tools or specs to plan these.
@@ -9,7 +9,8 @@ I need more research into tools or specs to plan these.
 - [[Better search discord]]
 - [[Discord counting bot]]
 - [[Neocities website]]
-
+- [[Fandom-specific ship stats]]
+- Game where everything, from the UI to other things, is a rhythm game
 # Debugging
 Hell.
 

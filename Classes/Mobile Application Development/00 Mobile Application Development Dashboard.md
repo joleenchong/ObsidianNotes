@@ -4,6 +4,7 @@ Email: sajib.mistry@curtin.edu.au
 Office: 314.435
 Consultation time: After lecture, email to see if in office, Wednesday 9am to 10:30am
 
+Tutor email: s.kanneganti@curtin.edu.au
 # Learning Outcomes:
 - comprehend and articulate mobile platform architectures & capabilities
 - design, implement, and test mobile applications
@@ -13,12 +14,12 @@ Consultation time: After lecture, email to see if in office, Wednesday 9am to 10
 [[01 Adaptive UI]]
 [[02 Activities]]
 [[03 Fragments]]
-[[04 Managing lists]]
+[[04 RecyclerView - for infinite scrolling]]
 [[05 Local database]]
 [[06 App-to-app interaction]]
-[[07 Content providers]]
-[[08 Remote network calls]]
-[[09 Android multithreading]]
+[[07 File Provider and Web API]]
+[[08 Multithreading and Remote API calls]]
+[[09 Reactive Programming and Retrofit]]
 [[10 Cross-platform mobile app development]]
 [[11 Web mobile application and app publication]]
 

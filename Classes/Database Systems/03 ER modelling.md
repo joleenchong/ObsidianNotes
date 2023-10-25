@@ -1,4 +1,3 @@
-
 Entity Relationship Model (ERM):
 - [[Components of an ERM]]
 - [[Drawing an ER diagram]]

@@ -7,7 +7,7 @@ But we use Android Room:
 
 Steps:
 - put following into build.gradle file and press sync now
-```java
+```Groovy
 dependencies {
 	...
 	implementation "androidx.room:room-runtime:2.4.8"
@@ -16,7 +16,7 @@ dependencies {
 ```
 - define entities using `@Entity`
 	- `@PrimaryKey` specifies primary key of entity
-		- can also use primaryKeys property for `@Entity` for composite primary keys
+		- can also use `primaryKeys` property for `@Entity` for composite primary keys
 	- `@ColumnInfo` specifies column properties
 	- `@Ignore` makes annotated field not have a defined column in entity
 	- read more about `@Index`

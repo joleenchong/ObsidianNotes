@@ -10,7 +10,6 @@ Consultation time: Wednesday after lecture, Thursday lab sessions, book appointm
 - integrate relational database with Java / Python
 - describe principles of correctness for concurrent transactions & explain techniques for managing concurrent transactions in DBMS
 
-
 # List of Topics:
 [[01 Basics of relational model and SQL]]
 [[02 Basic queries, data types]]
@@ -18,8 +17,8 @@ Consultation time: Wednesday after lecture, Thursday lab sessions, book appointm
 [[04 ER mapping, functional dependencies, normalisation]]
 [[05 Joins, grouping, sorting]]
 [[06 Table manipulation, constraints]]
-[[07 Procedures]]
-[[08 Triggers, views]]
+[[07 Stored procedures]]
+[[08 Triggers, views, indexes]]
 [[09 Indexes, transactions]]
 [[10 Integration database in complete system]]
 

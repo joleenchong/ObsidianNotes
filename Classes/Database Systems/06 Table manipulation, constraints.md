@@ -19,7 +19,7 @@ UNION:
 - corresponding entries of each select must be of compatible type
 
 Inserting many tuples with subquery:
-```SQL
+```MySQL
 -- Example
 INSERT INTO Cproj
 SELECT * FROM Proj
@@ -28,7 +28,7 @@ WHERE SYSDATE > endate;
 - this also applies for delete and update
 
 Creating tables from subqueries:
-```SQL
+```MySQL
 -- Example
 CREATE TABLE Deptmanager AS
 	--subselect
@@ -43,8 +43,6 @@ Referential integrity constraint policies:
 - SET-NULL - when value in referenced attribute is modified, corresponding foreign key value is set to NULL
 
 CHECK constraint - it validates the data in an attribute depending on a condition?
-
-
 
 Questions and notes:
 - What are the advantages of using subqueries over JOINs?

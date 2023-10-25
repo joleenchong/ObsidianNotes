@@ -1,7 +1,8 @@
 Functional dependencies are relationships that exist when one attribute uniquely determines another attribute.
 - like a many-to-one relationship from one set of attributes within given relation
 - can occur btwn 1 attribute and another or btwn multiple attributes
-- considered *trivial* if cannot be failed to be satisfied; right side is subset of left side
+- trivial relationship -  Attribute is a member of set X -> cannot fail to be satisfied
+- non-trivial relationship: Attribute not a member of set X
 - a dependency X->Y is considered *full* if removal of any attribute from X means that dependency does not hold anymore
 ![[Pasted image 20230815163812.png]]
 
@@ -10,7 +11,9 @@ Notation:
 `Determinant attribute -> dependent attribute`
 
 Key constraints are special cases; in X->Y, attributes in key play role of X and set of all attributes play role of Y.
-![[Pasted image 20230815164715.png]]
+
+Closure of attribute set X (notation: X<sup>+</sup>) - a set of all attributes that are functionally determined from X
+- if X<sup>+</sup> = set of all attributes, then X is a key
 
 ![[Pasted image 20230815165453.png]]
 

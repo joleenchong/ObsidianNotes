@@ -12,6 +12,11 @@ Display all databases:
 ```MySQL
 SHOW DATABASES;
 ```
+
+Show error details:
+```MySQL
+SHOW ERRORS;
+```
 # Tables
 Create relation:
 ```MySQL
@@ -27,17 +32,17 @@ DROP TABLE <table_name>;
 
 Adding new attribute to existing relation:
 ```MySQL
-ALTER TABLE <name> (
-	ADD <new attribute name, type>
-);
+ALTER TABLE <name> 
+	ADD <new attribute name> <type>
+;
 ```
 - when adding, all values of new attribute will be NULL -> set DEFAULT value to avoid
 
 Deleting column:
 ``` MySQL
-ALTER TABLE <name>(
+ALTER TABLE <name>
 	DROP COLUMN <attribute name>
-);
+;
 ```
 
 Describes table attributes:

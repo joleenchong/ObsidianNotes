@@ -1,5 +1,13 @@
 A message object to request action, launch activities, and pass data across components.
 
+Structure:
+- component - name of activity to launch -> unspecified means implicit
+- action - string label specifying what you want to do
+- data - URL/URI for source of data 
+- type - specifies data type (what does MIME mean)
+- category - set of string labels to refine what you want to do
+- extras - name-value pairs to pass other needed parameters
+
 - **explicit intent** - specifies the target component to launch by mentioning the component's class name or action
 ```java
 Intent explicitIntent = new Intent(context, TargetActivity.class);

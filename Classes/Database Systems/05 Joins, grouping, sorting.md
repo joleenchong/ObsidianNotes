@@ -56,3 +56,9 @@ GROUP BY job;
 	- AVG
 - grouped attributes are automatically sorted -> can be turned off by adding `ORDER BY NULL;`
 	- `GROUP BY <attribute> DESC;` reverses order
+- if you want to use a where condition together with GROUP BY, must use HAVING
+```MySQL
+SELECT * FROM database
+GROUP BY attribute
+HAVING number > 4
+```
