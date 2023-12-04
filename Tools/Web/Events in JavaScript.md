@@ -11,7 +11,6 @@ btn.addEventListener('click', () => {
 Listeners are attached to [[Document Object Model]] nodes.
 
 Listener for group of buttons:
-
 ```html
 <div id="container">
     <button id="1">Click Me</button>

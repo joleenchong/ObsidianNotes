@@ -7,11 +7,12 @@ import java.util.function.Function;
 public class LambdaBlock {
 	public static void main(String[] args)
 	{
+		//                      This thing---v
 		Function<Integer, Long> factorial = (n) -> 
 		{
 			if (n<=0)
 			{
-				return 1L;
+				return 1;
 			}
 			else
 			{

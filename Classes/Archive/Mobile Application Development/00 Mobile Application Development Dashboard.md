@@ -4,7 +4,6 @@ Email: sajib.mistry@curtin.edu.au
 Office: 314.435
 Consultation time: After lecture, email to see if in office, Wednesday 9am to 10:30am
 
-Tutor email: s.kanneganti@curtin.edu.au
 # Learning Outcomes:
 - comprehend and articulate mobile platform architectures & capabilities
 - design, implement, and test mobile applications

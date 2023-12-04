@@ -6,7 +6,6 @@ Process:
 	- after analysing product backlog, select sprint goal
 	- decide how to achieve sprint goal (design)
 	- create sprint backlog (tasks) from product backlog items (user stories / features)
-	- estimate sprint backlog in hours
 - team does tasks during sprint - may last 1-4 weeks or one calendar month
 - daily 15min stand-up scrum meetings are held during sprints
 	- what did you do yesterday?

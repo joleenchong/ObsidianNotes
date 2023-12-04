@@ -14,10 +14,9 @@ Email for appointment
 [[05 Secure design and thread modelling]]
 [[06 Secure programming in Java]]
 [[07 Application security testing]]
-[[08 Man-in-the-middle attack]]
-[[09 Serialization and deserialization vulnerabilities]]
-[[10 Management of data integrity]]
-
+[[08 Man in the middle and DOS attack]]
+[[09 Secure socket]]
+[[10 Object serialisation]]
 # Assignments / Tests:
 1. Assignment Implementing and Testing - 25%
 	- Due: Week 10

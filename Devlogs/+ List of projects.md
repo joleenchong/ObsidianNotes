@@ -2,10 +2,10 @@
 # Current project
 Where I'm focusing my efforts most on.
 
-
 # Research stage
 I need more research into tools or specs to plan these.
 - [[Audition - a Revue Starlight Fangame]]
+- [[Revue Simulator]]
 - [[Better search discord]]
 - [[Discord counting bot]]
 - [[Neocities website]]
