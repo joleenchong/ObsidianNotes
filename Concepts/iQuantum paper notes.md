@@ -1,3 +1,8 @@
+Tasks:
+- research requirements to run quantum tasks in quantum cloud computing
+- investigate if iQuantum can run actual tasks using password cracking algorithm
+- draw diagram on how it works + requirements
+
 Summary:
 This paper talks about simulating a hybrid quantum-classical computing environment using a cloud computing environment. This hybrid environment is important as quantum programs cannot be deployed permanently, thus the classical backend is needed to receive user requests. iQuantum accomplishes this by modelling a quantum data centre, computation nodes, qulets, and a computation broker in Java with all their required properties based on the existing classical cloud simulation framework CloudSim. This allows for research into areas like job scheduling algorithms for quantum systems, qubit mapping techniques, and hybrid task orchestration of cloudlets and qulets.
 

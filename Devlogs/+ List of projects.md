@@ -7,6 +7,7 @@ I need more research into tools or specs to plan these.
 - [[Audition - a Revue Starlight Fangame]]
 - [[Revue Simulator]]
 - [[Better search discord]]
+- [[Active window + mouse tracking timer on openSUSE]]
 - [[Discord counting bot]]
 - [[Neocities website]]
 - [[Fandom-specific ship stats]]
