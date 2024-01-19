@@ -1,4 +1,3 @@
-
 # Current project
 Where I'm focusing my efforts most on.
 
@@ -10,7 +9,6 @@ I need more research into tools or specs to plan these.
 - [[Active window + mouse tracking timer on openSUSE]]
 - [[Discord counting bot]]
 - [[Neocities website]]
-- [[Fandom-specific ship stats]]
 - Game where everything, from the UI to other things, is a rhythm game
 # Debugging
 Hell.

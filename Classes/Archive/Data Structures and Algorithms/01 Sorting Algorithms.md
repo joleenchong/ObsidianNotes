@@ -1,6 +1,5 @@
 Lecture 1: Introduction and Sorting
-# Bubble Sort - pretty bad
-
+## Bubble Sort - pretty bad
 - sorts array by comparing adjacent pairs and swapping if not in order
 - needs multiple passes P (up to N) to fully sort array
 - each pass will 'bubble up' largest value to the end
@@ -33,7 +32,7 @@ METHOD Bubblesort IMPORT array EXPORT array
 	WHILE (NOT sorted)
 ```
 
-# Insertion Sort
+## Insertion Sort
 
 - takes next element and inserts in sorted order into sub-array that precedes the element
 - starts marker at index 1 and moves it up by one after each inserted element, then elements before marker will be sorted
@@ -60,7 +59,7 @@ METHOD InsertionSort IMPORT array EXPORT array
 			i = i + 1
 ```
 
-# Selection Sort
+## Selection Sort
 
 - select smallest item and swap it with first item -> needs one full pass through array to find smallest
 - repeats with second-smallest and swaps with second item

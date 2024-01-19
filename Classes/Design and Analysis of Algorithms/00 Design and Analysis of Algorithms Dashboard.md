@@ -22,6 +22,7 @@ Pass requirements:
 # Resources:
 Preparation:
 Read first 3 chapters of textbook
+
 Review:
 - rates of growth of various functions (constant, logarithmic, linear, power, exponential)
 - logs & manipulation of them ( e.g. log(ab) = log(a) + log(b), log(a/b) =  log(a) - log(b), logb(a) logx(a)/logx(b) )
