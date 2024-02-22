@@ -32,9 +32,9 @@ Analysis:
 - Example (insertion sort) from slide 27-30
 
 Big O Notation:
-- Asymptotic upper bound - given a function f(n), there is an upper bound called g(n)
-- asymptotic tight bound / big theta -  the middle bound?
-- asymptotic lower bound / big omega - given a function f(n), there is a lower bound called g(n)
+- Asymptotic upper bound (O) - given a function f(n), there is an upper bound called g(n)
+- asymptotic tight bound / big theta ($\theta$) -  the middle bound?
+- asymptotic lower bound / big omega ($\Omega$)- given a function f(n), there is a lower bound called g(n)
 - tight upper bound - when f(n) is smallest possible (not same as big theta)
 - Examples- show that 2n + 6 =:
 	- O(n):
@@ -54,3 +54,5 @@ Big O Notation:
 		- nested loops are O(n) x O(n) -> O(n<sup>2</sup>)
 - always aim for smallest O( g(n) ) expression
 
+SLide 70
+Textbook page 36
