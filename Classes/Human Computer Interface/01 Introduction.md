@@ -7,6 +7,13 @@ When designing, take into account:
 - what activities are being carried out
 - where interaction is taking place
 
+Steps of design thinking:
+1. Empathise - understand user values and develop personas
+2. Define - define problem statement -> most important problems to solve from users POV
+3. Ideate - come up with creative solutions
+4. Prototype - const effective prototypes - post it notes, sketches
+5. Test - show prototype to users, get feedback, iterate
+
 Usability goals:
 - effective to use
 - efficient to use
@@ -32,6 +39,3 @@ Disability:
 	- permanent 
 	- temporary
 	- situational
-
-
-
