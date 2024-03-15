@@ -1,0 +1,3 @@
+- abstracts away container type -> can get elements without knowing what kind of container you have
+- all iterators implement same interface
+- relies on [[Polymorphism|polymorphism]] -> swap one container for another with minimal need for follow-on changes

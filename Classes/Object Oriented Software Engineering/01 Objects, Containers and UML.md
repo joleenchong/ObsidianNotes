@@ -2,9 +2,9 @@ Object Orientation purpose:
 - helps divide and conquer large-scale software design
 
 Concepts:
-- encapsulation - outside world must not see / know how a class works on the inside
-- inheritance - some classes are special types of other classes
-- polymorphism - different classes can be used in same situation if they have common interface
+- [[Encapsulation]] - outside world must not see / know how a class works on the inside
+- [[Inheritance]] - some classes are special types of other classes
+- [[Polymorphism]] - different classes can be used in same situation if they have common interface
 
 Language differences:
 - Typing:
@@ -43,27 +43,5 @@ UML:
 - Class diagrams:
 	- add diagrams from 5.4
 
-Containers:
-- simplest container is an array
-- various container types:
-	- list - ordered, lineared sequences of values / objects
-		- In Java, they are ArrayList and LinkedList
-		- Python - array-based list and tuple
-		- C++ - std::vector (array-based), std::list (linked-list)
-	- set - non-repeating collections of unique values / objects
-		- binary-tree set - sorted order
-		- hashtable set - unordered but faster
-		- in java, objects inside sets must:
-			- be immutable
-			- define equals()
-			- define hashCode() for hash sets
-			- implement Comparable for tree sets
-	- map - collection of objects accessibly via a key
-		- key-value pairs
-		- hash and tree maps
-		- keys must be immutable, define equals(), etc.
-
-Iterator pattern:
-- abstracts away container type -> can get elements without knowing what kind of container you have
-- all iterators implement same interface
-- relies on polymorphism -> swap one container for another with minimal need for follow-on changes
+[[Containers]]
+[[Iterator pattern]]

@@ -40,5 +40,3 @@ Requirements:
 - Gradle
 - CMake
 - Qt5 development libs
-
-Go through Worksheet 0 and install stuff on linux
