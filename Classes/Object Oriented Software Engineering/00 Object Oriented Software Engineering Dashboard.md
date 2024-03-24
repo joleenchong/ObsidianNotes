@@ -2,13 +2,11 @@
 UC Name: Dr David Cooper 
 Email: david.cooper@curtin.edu.au
 Office: 314.357
-
 # Learning Outcomes:
 - analyse polymorphism and upcasting of reference types
 - read and communicate software design concepts in UML and code
 - propose and implement appropriate software design for given set of requirements
 - justify software design choices and propose alternatives
-
 # List of Topics:
 [[01 Objects, Containers and UML]]
 [[02 References and Polymorphism]]

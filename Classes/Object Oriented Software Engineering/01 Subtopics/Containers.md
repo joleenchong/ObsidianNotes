@@ -3,6 +3,8 @@ The simplest container is an array.
  Container types:
 - list - ordered, lineared sequences of values / objects
 	- In Java, they are ArrayList and LinkedList
+		- ArrayList - array-based implementation
+		- LinkedList - linked node based implementation
 	- Python - array-based list and tuple
 	- C++ - std::vector (array-based), std::list (linked-list)
 - set - non-repeating collections of unique values / objects

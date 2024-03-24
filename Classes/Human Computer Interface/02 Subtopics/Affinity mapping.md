@@ -1,4 +1,3 @@
-
 - use FigJam template
 - put ideas on post-it notes
 - group similar notes into concepts
