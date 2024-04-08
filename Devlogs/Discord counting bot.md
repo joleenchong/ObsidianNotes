@@ -1,1 +1,0 @@
-This will be a discord bot written in Python that will be able to count every message sent in a server and rank users based on how many messages they've sent.

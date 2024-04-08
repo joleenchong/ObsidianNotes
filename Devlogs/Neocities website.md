@@ -1,1 +1,0 @@
-This will be my personal website for showcasing writing and drawing.
