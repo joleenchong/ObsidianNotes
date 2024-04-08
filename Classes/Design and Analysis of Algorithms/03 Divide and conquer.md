@@ -1,5 +1,5 @@
 From [[01, 02 Introduction]]:
-- split problem into sub parts -> Divide
+- split problem into sub problems -> Divide
 - solve each part -> Conquer
 - re-join parts -> Combine
 

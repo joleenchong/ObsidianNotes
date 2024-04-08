@@ -1,4 +1,4 @@
-Lambda expressions are a concise way to represent anonymous functions / closures
+Lambda expressions are a concise way to represent anonymous functions / closures.
 
 Example in Java:
 ```java

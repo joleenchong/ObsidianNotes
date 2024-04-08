@@ -1,4 +1,3 @@
-
 - tests are created with two general goals:
 	- *cover* the syntax in some way
 	- *violate* the syntax (invalid tests)

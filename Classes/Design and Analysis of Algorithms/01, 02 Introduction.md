@@ -31,7 +31,5 @@ Analysis:
 - use same [[Computation model|computation model]] for analysed algorithms
 - [[Insertion sort analysis]] example
 - [[Big O Notation]]
-- 
-
 
 Textbook page 36

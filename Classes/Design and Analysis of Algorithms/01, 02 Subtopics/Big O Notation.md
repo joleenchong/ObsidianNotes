@@ -1,6 +1,6 @@
  Three types:
--  Asymptotic upper bound (O) - given a function f(n), there is an upper bound called g(n)
-- asymptotic tight bound / big theta ($\theta$) -  the middle bound?
+-  Asymptotic upper bound / big oh (O) - given a function f(n), there is an upper bound called g(n)
+- asymptotic tight bound / big theta ($\theta$) -  worry about this only when O and omega are the same
 - asymptotic lower bound / big omega ($\Omega$)- given a function f(n), there is a lower bound called g(n)
 - tight upper bound - when f(n) is smallest possible (not same as big theta)
 

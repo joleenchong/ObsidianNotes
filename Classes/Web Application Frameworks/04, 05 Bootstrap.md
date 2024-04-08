@@ -26,3 +26,5 @@ Bootstrap uses a grid system to store containers, rows, and columns for layouts.
 	- xl - =>1200px
 - 15px of padding is applied to each side of column by default
 - each row is 12 units in width
+
+[[Bootstrap UI components]]

@@ -25,14 +25,14 @@ Disk reliability:
 
 IO devices characteristics:
 
-| Aspect             | Variation                                                       | Example        |
-| ------------------ | --------------------------------------------------------------- | -------------- |
-| data-transfer mode | character, block                                                | terminal, disk |
-| access method      | sequential, random                                              | modem, CD-ROM  |
-| transfer schedule  | synchronous, asynchronous                                       | tape, keyboard |
-| sharing            | dedicated, sharable                                             | tape, keyboard |
-| device speed       | latency, [[seek time]], transfer rate, delay between operations |                |
-| IO direction | read only, write only, read-write | CD-ROM, graphic controller, disk |
+| Aspect             | Variation                                                       | Example                          |
+| ------------------ | --------------------------------------------------------------- | -------------------------------- |
+| data-transfer mode | character, block                                                | terminal, disk                   |
+| access method      | sequential, random                                              | modem, CD-ROM                    |
+| transfer schedule  | synchronous, asynchronous                                       | tape, keyboard                   |
+| sharing            | dedicated, sharable                                             | tape, keyboard                   |
+| device speed       | latency, [[seek time]], transfer rate, delay between operations |                                  |
+| IO direction       | read only, write only, read-write                               | CD-ROM, graphic controller, disk |
 
 A [[System call]] for IO can be blocking or non-blocking.
 - blocking - suspends process until IO completes
