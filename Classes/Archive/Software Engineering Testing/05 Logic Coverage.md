@@ -56,3 +56,9 @@ Set of possible test requirements: { (1,5), (1,6), (1,7), (2,5), (2,6), (2,7), (
 	- often leads to infeasible test requirements
 
 ![[Pasted image 20230601194418.png]]
+
+https://cs.gmu.edu/~johnsonb/fall20/Lecture_21-AOCh8(1)(1).pdf
+https://cs.gmu.edu:8443/offutt/coverage/LogicCoverage
+
+This was where I got the GACC and RACC example, unfortunately the link is now restricted :(
+https://www.cs.virginia.edu/~up3f/cs3250/slides/3250meet27-28-logic-acc.pdf
