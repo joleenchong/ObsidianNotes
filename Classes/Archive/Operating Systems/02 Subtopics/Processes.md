@@ -1,4 +1,4 @@
-*Process* - a program in execution
+Aa program in execution.
 - program (executable file containing list of instructions) is passive unless instructions are executed
 - requires counter to specify next instruction to execute
 - needs resources (CPU time, memory, files, I/O devices) to accomplish task

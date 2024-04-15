@@ -13,7 +13,6 @@ Interrupt-controller hardware:
 - defers interrupt handling during critical processing
 - provides efficient dispatch to interrupt handler
 - supports multi-level interrupts with priority
-
 - CPU defers low priority interrupt when higher priority interrupt is being served
 - At boot time: OS probes hardware buses for present devices and installs their interrupt-handlers into interrupt vector
 - During I/O: devices raise interrupts to signal they're ready to provide service, completed output, input data are available, or a failure was detected

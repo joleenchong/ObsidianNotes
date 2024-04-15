@@ -17,27 +17,24 @@ Chapter 5 of OS textbook
 | share data through files                                        |                                                |
 
 [[Producer-consumer problem]]
-- a synchronisation problem
-- fixed size buffer & producer produces items to then put into buffer
-- consumer removes items from buffer to consume
-- producer should not produce items into buffer when consumer is consuming item from buffer & vice versa -> buffer should only be accessed by producer / consumer at a time
-![[Pasted image 20230403103508.png]] 
 
-- *Atomic operation* - an operation that completes entirely without interruption
-	- Example: assume initially counter = 5
-		- producer executes counter++
-		- consumer executers counter--
-		- Correct result - counter = 5, if producer and consumer execute separately / each instruction is executed atomically
-		- How would these statements be implemented in machine language?
+Atomic operation - an operation that completes entirely without interruption
+- Example: assume initially counter = 5
+	- producer executes counter++
+	- consumer executers counter--
+	- Correct result - counter = 5, if producer and consumer execute separately / each instruction is executed atomically
+	- How would these statements be implemented in machine language?
 ![[Pasted image 20230403104626.png]]
-- *Race condition* - a situation where several processes access & manipulate same data concurrently
-	- outcome of execution depends on particular order in which access takes place
-- *Critical section* - a code segment that accesses shared variables & has to be executed as atomic action
-	- only one process in a group of cooperating processes at a given point of time must be executing critical section
-	- Critical section problem:
-		- how to ensure at most one process executing critical section at a given time?
-		- need to make sure when one process executes critical section, no other process allowed to execute in its critical section
-	- Structure of process with critical section:
+
+Race condition - a situation where several processes access & manipulate same data concurrently
+- outcome of execution depends on particular order in which access takes place
+
+Critical section - a code segment that accesses shared variables & has to be executed as atomic action
+- only one process in a group of cooperating processes at a given point of time must be executing critical section
+- Critical section problem:
+	- how to ensure at most one process executing critical section at a given time?
+	- need to make sure when one process executes critical section, no other process allowed to execute in its critical section
+- Structure of process with critical section:
 ``` pseudocode
 REPEAT
 	Entry section.
