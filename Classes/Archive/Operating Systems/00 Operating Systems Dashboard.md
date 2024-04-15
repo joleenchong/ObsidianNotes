@@ -20,3 +20,5 @@ Covers 05-10
 # Resources:
 The keywords I've identified in the past year papers:
 https://docs.google.com/spreadsheets/d/1Ye7G0YLp1JWomUv3OGK5kfJ4yfGMxm8S64_OYh92Ayw/edit#gid=0
+Calculator:
+https://www.assistedcoding.eu/2018/02/06/online-problem-solver/
