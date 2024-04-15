@@ -1,6 +1,6 @@
 AKA contract.
 
-The inheritance of a public method signatures. They are the key to [[Polymorphism]]. It allows replacing classes with other classes that have the same interface. Declarations of interfaces can specify an interface without an implementation.
+The inheritance of a public method signature. They are the key to [[Polymorphism]]. It allows replacing classes with other classes that have the same interface. Declarations of interfaces can specify an interface without an implementation.
 
 ```java
 public interface Shape

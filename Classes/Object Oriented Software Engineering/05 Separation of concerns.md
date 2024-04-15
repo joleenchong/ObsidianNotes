@@ -1,3 +1,5 @@
+Basically breaking things down into smaller things.
+
 [[Model-View-Controller Architecture]]
 
 Packages and namespaces - a grouping of classes:
@@ -20,6 +22,6 @@ public class App{...}
 
 Package encapsulation:
 - if public, protected, and private omitted, classes and interfaces are package-private -> only visible within package
-- can separate a package 
+- helps separate a package out 
 
 Don't create nested classes unless inside class is conceptually part of outer class.
