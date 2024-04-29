@@ -25,7 +25,6 @@ CPU schedulers:
 | highest priority process should always be the process currently utilised | Once CPU is allocated to process, process keeps it until it releases through termination or switching to wait state |
 | needs special hardware (e.g. timer)                                      | no overhead of switching process from running to ready state                                                        |
 | can result in race condition                                             | if CPU is allocated to processes with bigger burst time then processes with smaller burst times may starve          |
-|                                                                          |                                                                                                                     |
 
 Types of scheduling algorithms:
 - [[First Come First Serve (FCFS)]]

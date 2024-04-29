@@ -3,7 +3,7 @@ Creates complex tree of objects to represent complex things using recursive [[ag
 - find and return a particular node
 
 Two concrete classes:
-- Leaf-node class - for objects that don't contain anything else (e.g. files)
+- Leaf-node class - for objects that don't contain anything else (e.g. files) / can't be broken down anymore
 - Composite-node class - for objects that contain leaves and other composites (e.g. directories)
 And 1 common [[Interface (Object)]] / abstract superclass (holds shared methods and stuff).
 

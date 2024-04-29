@@ -7,6 +7,6 @@ Advantages:
 
 Disadvantages:
 - Performance
-	-  bad waiting time
+	- bad waiting time
 	- bad turnaround time
 	- bad response time

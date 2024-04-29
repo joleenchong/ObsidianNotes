@@ -3,4 +3,4 @@
 - [[Template method pattern]]
 - [[Decorator pattern]]
 - [[Composite pattern]]
-
+- [[Observer pattern]]

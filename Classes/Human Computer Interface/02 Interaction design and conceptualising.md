@@ -30,7 +30,7 @@ User stories:
 
 Competitor analysis - get same market or best in the world
 
-Make all of above subtopics
+Note: make all of above subtopics
 
 Conceptualising:
 - write assumptions and claims when coming up with new design -> try to defend & support what they will provide
