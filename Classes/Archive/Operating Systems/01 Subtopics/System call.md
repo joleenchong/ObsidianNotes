@@ -1,4 +1,4 @@
-- a user interface to OS services available in assembly-language instructions / high level languages for systems programming (like C)
+A user interface to OS services available in assembly-language instructions / high level languages for systems programming (like C)
 - *Application Program Interface (API)* - set of functions available to application programmer
 	- does the system calls for app programmers
 	- more portable and easier to use

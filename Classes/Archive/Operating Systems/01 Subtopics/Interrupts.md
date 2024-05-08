@@ -1,3 +1,4 @@
+An interrupt is 
 1. CPU gets interrupt, stops what it's doing
 2. CPU goes to specific location in [[interrupt vector]] table to perform *interrupt service routine (ISR)*
 	1. interrupt vector table contains addresses / pointers of all ISRs

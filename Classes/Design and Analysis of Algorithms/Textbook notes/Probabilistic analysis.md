@@ -1,1 +1,0 @@
-Analysing the average-case scenario.

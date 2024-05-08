@@ -4,3 +4,5 @@
 - [[Decorator pattern]]
 - [[Composite pattern]]
 - [[Observer pattern]]
+- [[Factory method]]
+- [[Singleton pattern]]

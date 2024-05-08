@@ -1,6 +1,6 @@
-- tests are created with two general goals:
-	- *cover* the syntax in some way
-	- *violate* the syntax (invalid tests)
+Tests are created with two general goals:
+- *cover* the syntax in some way
+- *violate* the syntax (invalid tests)
 
 BNF - Backus-Naur Form
 Grammar:

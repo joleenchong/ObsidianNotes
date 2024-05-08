@@ -21,6 +21,7 @@ Direct communication:
 		- link may be uni-directional but usually bi-directional
 
 Indirect communication:
+- mailboxes are an abstract object that processes can put in / remove messages
 - each mailbox has unique ID
 - processes can communicate only if they share mailbox
 	- Primitives used:

@@ -1,7 +1,6 @@
 Chapter 7 of OS textbook
 
 -----
-
 Definition: when 2 or more processes are waiting for each other to release [[Resources ||resources]] in a circular chain
 
 4 conditions for deadlock:
