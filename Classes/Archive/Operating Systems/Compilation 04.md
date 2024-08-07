@@ -1,0 +1,5 @@
+![[04 CPU Scheduling]]
+![[First Come First Serve (FCFS)]]
+![[Priority Scheduling]]
+![[Round Robin (RR)]]
+![[Shortest Job First (SJF)]]

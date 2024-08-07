@@ -1,4 +1,5 @@
-AKA translation lookaside buffer (TLB).
+AKA translation lookaside buffer (TLB), sometimes called a cache too.
+
 A memory cache that reduces the time taken to access user memory location. A part of the chip's [[Memory Management Unit]].
 - improves virtual address translation speed
 - expensive -> typical number of entries limited to 32-104

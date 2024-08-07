@@ -35,7 +35,7 @@ Example = $\alpha = 0.8$, $\epsilon = 20ns$, $t = 100ns$
 	- if p = 1 -> every reference is a fault
 - Effective Access Time:
 $$ EAT = (1 - p)* ma + p*(page fault time)$$
-
+---
 [[Frame allocation]] schemes:
 - Fixed allocation:
 	- Equal allocation:

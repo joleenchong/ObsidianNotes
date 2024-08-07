@@ -1,5 +1,5 @@
 - linking is delayed until execution time
 - used for system libraries -> otherwise each user program must include a copy of system library
 - small piece of code stub used to locate appropriate memory-resident library routine
-	- replaces itself with routine address and executes outine
+	- replaces itself with routine address and executes routine
 - OS must check if routine is in process memory address

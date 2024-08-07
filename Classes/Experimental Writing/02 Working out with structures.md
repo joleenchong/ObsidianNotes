@@ -1,0 +1,1 @@
+Genres are a set of convention and expectations that's attached to a story.

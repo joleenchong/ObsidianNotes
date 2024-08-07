@@ -6,7 +6,6 @@ Factory method:
 - when made in superclass, acts like polymorphic constructor
 	- not allowed in java for interfaces
 - kinda just put them in their own class -> don't belong anywhere else
-- 
 
 Example code:
 ```java

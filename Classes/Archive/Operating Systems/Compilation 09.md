@@ -1,0 +1,8 @@
+![[09 IO and Storage]]
+![[access time]]
+![[Caching]]
+![[Spooling]]
+![[disk bandwidth]]
+![[disk scheduling algorithm]]
+![[RAID structure]]
+![[Swap-space management]]

@@ -1,6 +1,9 @@
-A collection of pages a process is actively using & must prevent from [[Thrashing]].
-An approximation of a program's locality.
+A collection of pages a process is actively using & must prevent from [[Thrashing]]. 
+
+It prevents thrashing by storing all active page frames in a working set for each process. If a process requests additional page frames which cannot be fulfilled, the OS suspends another process in order to free frames for the process requesting additional frames, thus preventing successive page fault activity.
+
 $\bigtriangleup \equiv$ working set window $\equiv$ fixed number of page references
+Locality - the set of pages actively used together
 
 Example: 10,000 instructions
 - WS$_i$ (working set of process P$_i$) = total number of pages referenced in the most recent $\bigtriangleup$ (varies in time) -> accuracy depends on $\bigtriangleup$

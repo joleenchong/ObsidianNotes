@@ -1,0 +1,1 @@
+You are a colony of ants inhabiting a rotting body in Arisia. You click on places on the map to go there and then you encounter things. You'll have to take into account the needs of the hive when selecting places to go to.

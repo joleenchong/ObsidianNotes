@@ -6,3 +6,4 @@
 - [[Observer pattern]]
 - [[Factory method]]
 - [[Singleton pattern]]
+- [[State pattern]]

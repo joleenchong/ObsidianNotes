@@ -5,8 +5,6 @@
 - basic hardware structure and operations
 - OS structures
 
-should refactor longer notes into new notes
-
 ------------
 Definitions:
 - *Operating System (OS)* : a program that acts as interface between a user and the computer hardware

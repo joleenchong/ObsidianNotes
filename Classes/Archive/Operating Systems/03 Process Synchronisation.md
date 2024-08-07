@@ -142,7 +142,7 @@ until false;
 	- algorithm preserves the first come first serve property
 	- Concept:
 		- Before entering critical section, each process receives a number
-		- holder of smallest number enters crucial section
+		- holder of smallest number enters critical section
 		- if processes Pi and Pj receive same number, if i < j, then Pi served first, else Pj served first
 		- Notation (ticket# process id#) - first, ticket number is compared. if same then process ID compared next
 		- data structures initialised to false and 0

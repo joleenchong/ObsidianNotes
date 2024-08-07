@@ -1,5 +1,4 @@
 The kernel consists of everything below system-call interface and above physical hardware (file system, CPU scheduling, memory management, other operating system functions) -> difficult to implement and maintain as everything in one level
-
 - System programs are loaded and start running at boot time
 	- called *system processes / daemon* when they run when kernel is running
 		- example: init in Linux (runs other daemons)

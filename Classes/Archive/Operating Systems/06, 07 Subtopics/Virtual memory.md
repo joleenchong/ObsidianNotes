@@ -6,7 +6,7 @@ Definition:
 
 Advantages:
 - a program is not constrained by amount of available physical memory
-- with the available physical memory more programs can be run at same time
+- with the available physical memory more programs can be run at same time -> higher degree of [[Multiprogramming]]
 - less I/O needed to load / swap user program into memory -> program runs faster
 
 Implementation:

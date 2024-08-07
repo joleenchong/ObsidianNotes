@@ -9,11 +9,13 @@ Definition:
 Types of binding:
 - Compile time
 	- can generate absolute code as memory location is known during compile time
+		- absolute code - code that loads at a known and fixed memory address
 	- if starting location code changes code must be recompiled
 	- process must be loaded at same place in memory
 	- same logical and physical addresses
 - Load time
 	- compiler must generate relocatable code
+		- relocatable code - execution address can be changed
 	- must reload process if starting address changes
 	- same logical and physical addresses
 - Execution time

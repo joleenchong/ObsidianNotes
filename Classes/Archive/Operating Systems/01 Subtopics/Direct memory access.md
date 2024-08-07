@@ -1,4 +1,3 @@
-
 - improve performance for large data transfers
 	- bypasses CPU to transfer data directly between I/O device and memory -> CPU freed for other work
 - CPU gives command to DMA controller with information on pointer of source of data transferred, pointer of destination of transfer, count of number of bytes to transfer

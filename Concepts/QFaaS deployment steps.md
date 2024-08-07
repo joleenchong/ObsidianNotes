@@ -15,3 +15,4 @@ Domain name: qfaas.live
 	- configure Cloud DNS Wildcard entry to point to Gitlab Server external IP address with qfaas.live
 	- Firewall?
 6. Create Dockerfiles for qfaas-fn and qfaas-ui to deploy to server
+

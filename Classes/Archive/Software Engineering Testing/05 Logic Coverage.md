@@ -59,6 +59,7 @@ Set of possible test requirements: { (1,5), (1,6), (1,7), (2,5), (2,6), (2,7), (
 
 https://cs.gmu.edu/~johnsonb/fall20/Lecture_21-AOCh8(1)(1).pdf
 https://cs.gmu.edu:8443/offutt/coverage/LogicCoverage
+https://www.cs.cornell.edu/courses/cs5154/2022fa/resources/LogicCoverage-Active.pdf
 
 This was where I got the GACC and RACC example, unfortunately the link is now restricted :(
 https://www.cs.virginia.edu/~up3f/cs3250/slides/3250meet27-28-logic-acc.pdf

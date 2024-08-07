@@ -29,11 +29,11 @@ Bankers' Algorithm:
 	- Steps:
 		1. Let *work* & finish = vectors of length m & n respectively
 			- work = available
-			- finish\[i] = falsw
+			- finish\[i] = false
 		1. find value of i that satisfies (else go to step 4):
 			- finish\[i] = false
 			- need<sub>i</sub> <= work
-		2. work = work - allocation\[i]
+		2. work = work + allocation\[i]
 			- finish\[i] = true, go to step 2
 		3. if finish\[i] = true for all i, system is in safe state
 

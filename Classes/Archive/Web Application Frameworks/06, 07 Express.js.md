@@ -46,7 +46,6 @@ Views are defined in a HTML file using:
 <button type="submit">Button text</button>
 ```
 ```javascript
-//TODO: test this so I know what it does
 app.get('/', (request, resource) => {
 	resource.sendFile(_dirname + '/thing.html');
 })
